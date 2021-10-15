@@ -1,0 +1,161 @@
+h1 {
+  font-size: 6rem;
+  margin: 50px auto 50px auto;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  padding: auto;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-family: "Righteous", cursive;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e4f9f5;
+}
+
+.footer-link {
+  color: #11999e;
+}
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  color: #40514e;
+}
+
+.Top-container {
+  background-color: #e4f9f5;
+  height: 100%;
+  width: 100%;
+  padding-top: 50px;
+  position: relative;
+}
+
+.topcloude {
+  position: absolute;
+  right: 250px;
+  top: 10px;
+}
+
+.bottomcloude {
+  position: absolute;
+  left: 300px;
+  bottom: 450px;
+}
+
+.Rick_img {
+  border-radius: 50%;
+  height: 15rem;
+  width: 15rem;
+  position: relative;
+  top: 10px;
+}
+.Skills {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hr-dots {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: darkgrey;
+  border-width: 5px;
+}
+
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -moz-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -ms-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -o-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -webkit-gradient(to bottom, #66bfbf, #66bfbf);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  height: 4px;
+  line-height: 4px;
+  color: #ffffff;
+  font-family: Helvetica;
+  width: 179px;
+  font-size: 24px;
+  font-weight: 100;
+  padding: 14px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 20px;
+}
+
+.btn:hover {
+  border: solid #337fed 1px;
+  background: #66bfba;
+  background-image: -webkit-linear-gradient(top, #66bfba, #3d94f6);
+  background-image: -moz-linear-gradient(top, #66bfba, #3d94f6);
+  background-image: -ms-linear-gradient(top, #66bfba, #3d94f6);
+  background-image: -o-linear-gradient(top, #66bfba, #3d94f6);
+  background-image: -webkit-gradient(to bottom, #66bfba, #3d94f6);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  text-decoration: none;
+}
+
+.para-skill {
+  clear: both;
+  color: #40514e;
+}
+
+.Skills-train {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-heading2 {
+  text-align: right;
+}
+.middle-container {
+  padding: 100px 0 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  image-resolution: inherit;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 40px;
+  margin-bottom: -10px;
+}
+
+.footer-link {
+  margin: 200px 10px 20px 10px;
+}
+.footer-ank {
+  color: #eaf6f6;
+  font-size: x-small;
+}
